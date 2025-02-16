@@ -1,8 +1,9 @@
 Overview
 A lightweight, professional WPF application designed to streamline code review processes by parsing and analyzing Git diff files.
-Features
+
 ![Screenshot 2025-02-16 150453](https://github.com/user-attachments/assets/08bf4d4b-6e44-4b06-8671-58e24453aaf6)
 
+Features:
 Load and visualize Git diff files
 Syntax-highlighted code changes viewer
 Automatic code analysis
