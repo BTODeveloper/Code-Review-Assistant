@@ -1,0 +1,29 @@
+diff --git a/src/main.cs b/src/main.cs
+--- a/src/main.cs
++++ b/src/main.cs
+@@ -1,5 +1,7 @@
+ using System;
++using System.Linq;
+ 
+ namespace TestProject {
+-    public class Program {
+-        static void Main() {
++    public class MainProgram {
++        static async Task Main() {
++            await ProcessData();
+         }
+     }
+ }
+
+diff --git a/src/utils.cs b/src/utils.cs
+--- a/src/utils.cs
++++ b/src/utils.cs
+@@ -10,6 +10,8 @@ namespace TestProject {
+     public class Utils {
+         public static void ProcessData() {
+             // TODO: Implement data processing
++            var data = GetData();
++            AnalyzeResults(data);
+         }
+     }
+ }

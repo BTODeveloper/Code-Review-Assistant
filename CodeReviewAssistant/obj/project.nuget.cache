@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETu8oig8Do4YsfPd5xh+hdtD5lLHIX+rHYPpmJ+ZiwTY3AeI5lVRy1ZueQRyN9xcpEpDE9L03u944RWtZi7ubw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OrenBst\\Desktop\\.Net\\CodeReviewAssistant\\CodeReviewAssistant\\CodeReviewAssistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OrenBst\\.nuget\\packages\\avalonedit\\6.3.0.90\\avalonedit.6.3.0.90.nupkg.sha512",
+    "C:\\Users\\OrenBst\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\OrenBst\\.nuget\\packages\\diffplex\\1.7.2\\diffplex.1.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
